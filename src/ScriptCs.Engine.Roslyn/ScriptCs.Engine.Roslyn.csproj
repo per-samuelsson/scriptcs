@@ -37,6 +37,7 @@
       <Link>Guard.cs</Link>
     </Compile>
     <Compile Include="RoslynScriptCompilerEngine.cs" />
+    <Compile Include="RoslynScriptExecutableEngine.cs" />
     <Compile Include="RoslynScriptInMemoryEngine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RoslynScriptEngine.cs" />
